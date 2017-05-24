@@ -1,6 +1,4 @@
 # opencompliance-openexpo2017
-Taller impartido en OpenExpo 2017 y materiales de utilidad para implantar un open compliance para garantizar la compatibilidad de licencias FOSS y propietarias en el desarrollo de productos de software
-
 
 El repositorio incluye la presentación del taller impartido en OpenExpo por Elena Pérez Gómez, así como información de utilidad que sirve como punto de partida a cualquier empresa que quiera implantar un sistema open compliance en su empresa.
  
