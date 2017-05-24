@@ -17,6 +17,6 @@ The Linux Foundation es una de las organizaciones que hemos encontrado que promu
 ## ¿Cúal es el objetivo de implantar un Open Compliance?
 > - Garantizar que se cumplen las obligaciones legales derivadas del desarrollo de software
 > - Facilitar el conocimiento de esas obligaciones dentro de la organización
--
+
 
 
