@@ -2,9 +2,11 @@
 
 ## Política opencompliance de [nombre de la empresa, en adelante "xxx"]
 
-| Fecha | Control de versiones | Autor | Descripción del cambio|
-|--------|--------|
-|   xx/xx/xxx     | 1.0        | [nombre] | Creación de la politica|
+**Fecha:**
+**Control de versiones:**
+**Autor:** 
+**Descripción del cambio:**
+
 
 
 ### Descripción
