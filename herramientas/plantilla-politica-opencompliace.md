@@ -4,7 +4,8 @@
 
 | Fecha | Control de versiones | Autor | Descripción del cambio|
 |--------|--------|
-|   xx/xx/xxx     | 1.0        | [nombre] | Creación de la politica
+|   xx/xx/xxx     | 1.0        | [nombre] | Creación de la politica|
+
 
 ### Descripción
 Este documento define la política de [xxx] para el uso de open source ("FOSS", en adelante) en productos desarrollados por [xxx] que van a ser comercializados y distribuidos. 
