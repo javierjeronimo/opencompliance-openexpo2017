@@ -4,10 +4,9 @@
 - [Binary Analysis tool (BAT)](https://github.com/armijnhemel/binaryanalysis)
 - [BinWalk](https://github.com/devttys0/binwalk)
 
-**Muy buena, además, la explicación sobre análisis de archivos binarios que se incluye en la guía de "[practical GPL Compliance](https://linuxfoundation.org/news-media/research/practical-gpl-compliance)". Merece la pena echarle un vistazo en profundidad a esa guía. 
+**Muy buena, además, la explicación sobre análisis de archivos binarios que se incluye en la guía de "[practical GPL Compliance](https://linuxfoundation.org/news-media/research/practical-gpl-compliance)". Merece la pena echarle un vistazo en profundidad a esa guía. Pongo por aqui un resumen:
 
-**Pongo por aqui un resumen:**
-Qué puede ser un binario:
+**Qué puede ser un binario:**
 > un ejecutable
 > un archivo objeto
 > un archivo de binarios
