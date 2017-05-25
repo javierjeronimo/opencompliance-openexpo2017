@@ -18,13 +18,15 @@ Tienen en común:
 > que pueden ser construidos desde código opensource
 > que deben ser analizados
 
-Un archivo de código fuente debe inspeccionarse para encontrar binarios problemáticos en archivos de código fuente. Se debe buscar
+Un archivo de código fuente debe inspeccionarse para encontrar binarios problemáticos en archivos de código fuente. Se debe buscar:
 > object files
 > módulos "out of tree" del kernel de linux
 > librerías y ejecutables
 > imágenes de file system
 > otras imágenes de firmware
 > realizar una reconstrucción del código fuente y comparlarlo con el binario original
+
+¿He dicho ya que deberíais miraros la guía de "practical GPL"? :)
 
 
 ### Para análisis de código fuente
