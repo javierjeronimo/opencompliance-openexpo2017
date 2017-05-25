@@ -17,4 +17,4 @@
 - [ ] Revisar la correcta aplicación de los procesos (Plan -Do - Check -Act)
 
 
-El checklist incluído en este documento es un resumen de las propuestas de checklist que se facilitan en la guía ["Practical GPL Compliance](http://https://www.linuxfoundation.org/news-media/research/practical-gpl-compliance)" de The Linux Foundation. 
+El checklist incluído en este documento es un resumen de las propuestas de checklist que se facilitan en la guía ["Practical GPL Compliance](https://www.linuxfoundation.org/news-media/research/practical-gpl-compliance)" de The Linux Foundation. 
