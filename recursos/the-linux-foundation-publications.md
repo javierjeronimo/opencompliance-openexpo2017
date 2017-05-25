@@ -1,6 +1,6 @@
 # The Linux Foundation
 
-Es entidad que tiene claro que el open source genera negocio y facilita muchas herramientas para que las organizaciones puedan escalar sus proyectos basados en open source de la mejor manera. 
+Es una organización que tiene claro que el open source genera negocio y facilita muchas herramientas para que las organizaciones puedan escalar sus proyectos basados en open source de la mejor manera. 
 
 Tiene muchísimos recursos en este enlace
 https://compliance.linuxfoundation.org
@@ -21,5 +21,5 @@ http://go.linuxfoundation.org/open-source-compliance-ebook
 https://www.linuxfoundation.org/news-media/research/practical-gpl-compliance
 > Los diagramas de flujo que incluyen en los anexos para valorar si el código incorporado en un proyecto puede dar problemas o no son, simplemente, buenísimos de puro sencillos. 
  
-según los [términos de uso](http://https://www.linuxfoundation.org/terms) del site de The Linux Foundation, todo el material está licenciado con licencia [Creative Commons Attribution 3.0 License](http://https://creativecommons.org/licenses/by/3.0/).
+según los [términos de uso](https://www.linuxfoundation.org/terms) del site de The Linux Foundation, todo el material está licenciado con licencia [Creative Commons Attribution 3.0 License](https://creativecommons.org/licenses/by/3.0/).
 
