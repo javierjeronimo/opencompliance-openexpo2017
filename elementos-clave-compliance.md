@@ -15,7 +15,7 @@ Partiendo de esa base, los elementos clave para conseguir el éxito de un sistem
  
 Vamos a desarrollar brevemente cada uno de ellos:
  
-**(1) Estrategia:**
+**(1) [Estrategia](https://github.com/elenaperezgomez/opencompliance-openexpo2017/blob/master/retos-sistema-compliance.md):**
  
 Consenso tomado por la organización sobre los aspectos básicos de la política y su implementación. Si no se empieza por consenso a nivel de dirección, va a ser difícil que el sistema compliance funcione. 
  
@@ -34,6 +34,6 @@ Un componente esencial en un programa de compliance es la formación para asegur
 **(6) Automatización**
 Se solicitará a los desarrolladores que deseen utilizar o contribuir a proyectos FOSS que envíen [solicitudes en línea](https://github.com/elenaperezgomez/opencompliance-openexpo2017/blob/master/herramientas/mas-juguetes.md) y obtengan aprobaciones apropiadas. Este proceso se gestiona mejor a través de un sistema automatizado en línea con un workflow adecuado para el sistema open compliance.
  
-**(7) Comunicación**
+**(7) [Comunicación](https://github.com/elenaperezgomez/opencompliance-openexpo2017/blob/master/retos-sistema-compliance.md)**
 La comunicación, tanto interna como externa, es parte integral de cualquier programa de compliance. La recomendación más importante con respecto a la comunicación es que ser clara y consistente. Bien porque se expliquen internamente las metas y preocupaciones de la organización acerca del uso de FOSS o externamente hacia las comunidades de software libre para el código FOSS que se utiliza en el producto. 
  
