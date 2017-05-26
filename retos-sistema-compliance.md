@@ -4,7 +4,7 @@ Una de las mayores quejas que se escucha cuando se implanta un sistema de gesti�
 Y por “ésto” se refiere al sistema de gestión en cuestión, que se convierte en un *marrón* que le cae a una persona, muchas veces sin el apoyo de la propia dirección para que esa persona tenga poder de influencia sobre el resto de la organización. Se convierte en un pseudo sistema en el que se rellenan documentos sin sentido para cubrir el expediente, sobre todo en los casos en los que puede haber sanción de algún tipo detrás, como es el caso de protección de datos. 
 Podemos decir de entrada que, si va a ser esa la filosofía, metodología y planteamiento, mejor no meterse. 
  
-Un sistema de gestión, de lo que sea, tiene que ser algo que apoye a los procesos de de la organización y ayude a mejorarlos. Tiene que ser un valor añadido que beneficie productividad de la organizaciçon, además de la seguridad, cumplimiento normativo y todos los demás requisitos aparejados al sistema de gestión. 
+Un sistema de gestión, de lo que sea, tiene que ser algo que apoye a los procesos de de la organización y ayude a mejorarlos. Tiene que ser un valor añadido que beneficie productividad de la organización, además de la seguridad, cumplimiento normativo y todos los demás requisitos aparejados al sistema de gestión. 
  
 Así que, el sistema de gestión de open compliance tiene que conseguir un equilibrio entre el desarrollo de los productos de software, que es en lo que se fundamenta nuestro modelo de negocio, y el apoyo que el compliance supone para que esos productos cumplan los requisitos de compatibilidad de licencias. Para que funcione tiene que haber varios elementos básicos en el Open Compliance:
  
@@ -36,4 +36,4 @@ Cualquier sistema de cumplimiento implica que establezcamos una serie de métric
  
  
  
-En el documento "[Establishing FOSS and Open Source Software Compliance Programs: Challenges and Solutions](https://www.linux.com/publications/establishing-free-and-open-source-software-compliance-programs-challenges-and-solutions)" se ofrecen un gran número de retos y soluciones asociados a un sistema de open compliance que sería recomendable leer. 
+En el documento "[Establishing FOSS and Open Source Software Compliance Programs: Challenges and Solutions](https://www.linux.com/publications/establishing-free-and-open-source-software-compliance-programs-challenges-and-solutions)" se ofrecen un gran número de retos y soluciones asociadas a un sistema de open compliance que sería recomendable leer. 
