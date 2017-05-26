@@ -7,11 +7,11 @@
 **Muy buena, además, la explicación sobre análisis de archivos binarios que se incluye en la guía de "[practical GPL Compliance](https://linuxfoundation.org/news-media/research/practical-gpl-compliance)". Merece la pena echarle un vistazo en profundidad a esa guía. Pongo por aqui un resumen:
 
 **Qué puede ser un binario:**
-> un ejecutable
-> un archivo objeto
-> un archivo de binarios
-> firmware
-> un desconocido conjunto de datos
+> - un ejecutable
+> - un archivo objeto
+> - un archivo de binarios
+> - firmware
+> - un desconocido conjunto de datos
 
 Tienen en común:
 > que no son código fuente
@@ -19,12 +19,12 @@ Tienen en común:
 > que deben ser analizados
 
 Un archivo de código fuente debe inspeccionarse para encontrar binarios problemáticos en archivos de código fuente. Se debe buscar:
-> object files
-> módulos "out of tree" del kernel de linux
-> librerías y ejecutables
-> imágenes de file system
-> otras imágenes de firmware
-> realizar una reconstrucción del código fuente y comparlarlo con el binario original
+> - object files
+> - módulos "out of tree" del kernel de linux
+> - librerías y ejecutables
+> - imágenes de file system
+> - otras imágenes de firmware
+> - realizar una reconstrucción del código fuente y comparlarlo con el binario original
 
 ¿He dicho ya que deberíais miraros la guía de "practical GPL"? :)
 
