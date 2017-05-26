@@ -1,8 +1,8 @@
 Los elementos centrales del cumplimiento del open compliance son los mismos para cualquier organización independientemente de su tamaño: 
 
-> Identificar el código abierto en la base de código 
-> Revisar y aprobar su uso 
-> Cumplir las obligaciones relacionadas con su uso 
+> - Identificar el código abierto en la base de código 
+> - Revisar y aprobar su uso 
+> - Cumplir las obligaciones relacionadas con su uso 
  
 Partiendo de esa base, los elementos clave para conseguir el éxito de un sistema open compliance son los siguientes:
  
