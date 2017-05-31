@@ -1,7 +1,7 @@
 En el equipo central se llama Open Source Review Board (OSRB) y está formado por:
 > - Compliance Officer
 > - personal técnico de los equipos de ingeniería (desarrollo) y directores o personas implicadas en los productos finales. 
-> - un o varios asesores legales. 
+> - uno o varios asesores legales. 
 
 
  
